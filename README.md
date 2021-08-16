@@ -16,7 +16,7 @@ This is a sample app demonstrating Firebase Authentication in Flutter using emai
 3.Login Screen
 4.Home Screen
 
-NOTE: As per the instruction I have implimented Pagination with infinite scroll for the above api but in my home screen it's not showing and also there is no error reflected on terminal.
+NOTE: As per the instruction I have implemented Pagination with infinite scroll for the above api but in my home screen it's not showing and also there is no error reflected on terminal.
 
 # few already registered users
 1.email: abhishek.aashu99@gmail.com
