@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681938857893",
+    "project_id": "new-pro-6fe3b",
+    "storage_bucket": "new-pro-6fe3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681938857893:android:492dd19870fa57620c024c",
+        "android_client_info": {
+          "package_name": "co.appnewbeta.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681938857893-ld0qcfrtmbv7ea97o4fbdpmhgvh4prnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAztue0QjLdfEWxDx-N78OkW-KnVjwOoT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681938857893-ld0qcfrtmbv7ea97o4fbdpmhgvh4prnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
