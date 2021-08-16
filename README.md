@@ -21,8 +21,10 @@ NOTE: As per the instruction I have implimented Pagination with infinite scroll 
 # few already registered users
 1.email: abhishek.aashu99@gmail.com
   password : 1234567
+  
 2.email: abhishek.desai@amaltascollege.com
   password : password123
+  
 3.email: notoriousabhi99@gmail.com
   password : abhi@123
   
